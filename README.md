@@ -36,7 +36,7 @@ This step will:
 - A new directory will be created work/ which will store the output result of the Blast
 
 
-## Using Your Own D
+## Using Your Own Data
 - Replace input.fasta file with your data.
 - Users can also add their own custom Blast database in the DB/ directory
 - Once the data is prepared, use the same command to run the nextflow 
