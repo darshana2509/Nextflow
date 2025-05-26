@@ -1,1 +1,0 @@
-Blast tool using Nextflow.
